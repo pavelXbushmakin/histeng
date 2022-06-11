@@ -1,4 +1,4 @@
-* TODO Задачи и результаты
+* Задачи и результаты
 :PROPERTIES:
 :ID:       14E43714-7760-4FC9-A6FB-314694F43DF3
 :CUSTOM_ID: tasks
