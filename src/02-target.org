@@ -4,7 +4,7 @@
 :CUSTOM_ID: target
 :END:
 Материалы:
-- [[https://github.com/pavelXbushmakin/histeng/docs/tasks/02-target.pdf]]
+- https://github.com/pavelXbushmakin/histeng/raw/master/docs/tasks/02-target.pdf
 
 Сделать:
 - Сформулировать цель проекта по SMART

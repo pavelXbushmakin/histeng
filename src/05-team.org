@@ -4,8 +4,8 @@
 :CUSTOM_ID: team
 :END:
 Материалы:
-- [[https://github.com/pavelXbushmakin/histeng/docs/tasks/05-team.pdf]]
-- [[https://github.com/pavelXbushmakin/histeng/docs/tasks/05t-team-parthers.docx]]
+- https://github.com/pavelXbushmakin/histeng/raw/master/docs/tasks/05-team.pdf
+- https://github.com/pavelXbushmakin/histeng/raw/master/docs/tasks/05t-team-parthers.docx
 ** Решение
 :PROPERTIES:
 :ID:       1EAEE388-54DA-44E9-BCDA-800435BB6D93

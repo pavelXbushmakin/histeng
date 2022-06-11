@@ -4,7 +4,7 @@
 :CUSTOM_ID: tasks
 :END:
 Материалы:
-- [[https://github.com/pavelXbushmakin/histeng/docs/tasks/03-tasks.pdf]]
+- https://github.com/pavelXbushmakin/histeng/raw/master/docs/tasks/03-tasks.pdf
 
 Сделать:
 - Задачи проекта

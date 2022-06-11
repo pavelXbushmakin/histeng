@@ -4,7 +4,7 @@
 :CUSTOM_ID: ta-geo-issue
 :END:
 Материалы:
-- [[https://github.com/pavelXbushmakin/histeng/docs/tasks/01-ta-geo-issue.pdf]]
+- https://github.com/pavelXbushmakin/histeng/raw/master/docs/tasks/01-ta-geo-issue.pdf
 
 Сделать:  
 - Описать свою целевую аудиторию, которую вы выбираете для работы

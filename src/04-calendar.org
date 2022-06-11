@@ -4,7 +4,7 @@
 :CUSTOM_ID: calendar
 :END:
 Материалы:
-- [[https://github.com/pavelXbushmakin/histeng/docs/tasks/04-calendar.pdf]]
+- https://github.com/pavelXbushmakin/histeng/raw/master/docs/tasks/04-calendar.pdf
 ** Решение
 :PROPERTIES:
 :ID:       8EB8B3D7-B2C4-4D75-823F-3958CFB8C811

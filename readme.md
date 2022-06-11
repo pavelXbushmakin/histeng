@@ -28,7 +28,7 @@
 
 Материалы:
 
--   <https://github.com/pavelXbushmakin/histeng/docs/tasks/01-ta-geo-issue.pdf>
+-   <https://github.com/pavelXbushmakin/histeng/raw/master/docs/tasks/01-ta-geo-issue.pdf>
 
 Сделать:  
 
@@ -122,7 +122,7 @@
 
 Материалы:
 
--   <https://github.com/pavelXbushmakin/histeng/docs/tasks/02-target.pdf>
+-   <https://github.com/pavelXbushmakin/histeng/raw/master/docs/tasks/02-target.pdf>
 
 Сделать:
 
@@ -150,7 +150,7 @@
 
 Материалы:
 
--   <https://github.com/pavelXbushmakin/histeng/docs/tasks/03-tasks.pdf>
+-   <https://github.com/pavelXbushmakin/histeng/raw/master/docs/tasks/03-tasks.pdf>
 
 Сделать:
 
@@ -169,7 +169,7 @@
 
 Материалы:
 
--   <https://github.com/pavelXbushmakin/histeng/docs/tasks/04-calendar.pdf>
+-   <https://github.com/pavelXbushmakin/histeng/raw/master/docs/tasks/04-calendar.pdf>
 
 
 <a id="calendar-r"></a>
@@ -225,8 +225,8 @@
 
 Материалы:
 
--   <https://github.com/pavelXbushmakin/histeng/docs/tasks/05-team.pdf>
--   <https://github.com/pavelXbushmakin/histeng/docs/tasks/05t-team-parthers.docx>
+-   <https://github.com/pavelXbushmakin/histeng/raw/master/docs/tasks/05-team.pdf>
+-   <https://github.com/pavelXbushmakin/histeng/raw/master/docs/tasks/05t-team-parthers.docx>
 
 
 <a id="team-r"></a>
@@ -240,7 +240,7 @@
 
 Материалы:
 
--   <https://github.com/pavelXbushmakin/histeng/docs/tasks/06-media.pdf>
+-   <https://github.com/pavelXbushmakin/histeng/raw/master/docs/tasks/06-media.pdf>
 
 
 <a id="media-r"></a>
