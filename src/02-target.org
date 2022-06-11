@@ -3,6 +3,10 @@
 :ID:       8D48E93B-2A31-44DB-A8D2-E733AE7C79B9
 :CUSTOM_ID: target
 :END:
+Материалы:
+- [[https://github.com/pavelXbushmakin/histeng/docs/tasks/02-target.pdf]]
+
+Сделать:
 - Сформулировать цель проекта по SMART
 ** Решение
 :PROPERTIES:

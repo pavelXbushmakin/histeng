@@ -3,6 +3,10 @@
 :ID:       14E43714-7760-4FC9-A6FB-314694F43DF3
 :CUSTOM_ID: tasks
 :END:
+Материалы:
+- [[https://github.com/pavelXbushmakin/histeng/docs/tasks/03-tasks.pdf]]
+
+Сделать:
 - Задачи проекта
 - Результаты проекта
 ** Решение

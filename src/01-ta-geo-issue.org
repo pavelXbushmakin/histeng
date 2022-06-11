@@ -3,6 +3,10 @@
 :ID:       6E42CA7C-D8B3-4BCB-8853-EF21A61035F7
 :CUSTOM_ID: ta-geo-issue
 :END:
+Материалы:
+- [[https://github.com/pavelXbushmakin/histeng/docs/tasks/01-ta-geo-issue.pdf]]
+
+Сделать:  
 - Описать свою целевую аудиторию, которую вы выбираете для работы
 - Описать географию проекта
 - Описать проблематику (не менее половины листа формата A4)

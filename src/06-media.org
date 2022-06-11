@@ -3,7 +3,8 @@
 :ID:       4993ABA4-9AAF-4350-AFA2-31697C8DD303
 :CUSTOM_ID: media
 :END:
-[[../docs/tasks/06-media.pdf]]
+Материалы:
+- [[https://github.com/pavelXbushmakin/histeng/docs/tasks/06-media.pdf]]
 
 ** Решение
 :PROPERTIES:

@@ -26,6 +26,12 @@
 
 # Целевая аудитория, география и проблематика
 
+Материалы:
+
+-   <https://github.com/pavelXbushmakin/histeng/docs/tasks/01-ta-geo-issue.pdf>
+
+Сделать:  
+
 -   Описать свою целевую аудиторию, которую вы выбираете для работы
 -   Описать географию проекта
 -   Описать проблематику (не менее половины листа формата A4)
@@ -114,6 +120,12 @@
 
 # Цель по SMART
 
+Материалы:
+
+-   <https://github.com/pavelXbushmakin/histeng/docs/tasks/02-target.pdf>
+
+Сделать:
+
 -   Сформулировать цель проекта по SMART
 
 
@@ -136,6 +148,12 @@
 
 # TODO Задачи и результаты
 
+Материалы:
+
+-   <https://github.com/pavelXbushmakin/histeng/docs/tasks/03-tasks.pdf>
+
+Сделать:
+
 -   Задачи проекта
 -   Результаты проекта
 
@@ -148,6 +166,10 @@
 <a id="calendar"></a>
 
 # TODO Календарный план
+
+Материалы:
+
+-   <https://github.com/pavelXbushmakin/histeng/docs/tasks/04-calendar.pdf>
 
 
 <a id="calendar-r"></a>
@@ -201,6 +223,11 @@
 
 # Команда
 
+Материалы:
+
+-   <https://github.com/pavelXbushmakin/histeng/docs/tasks/05-team.pdf>
+-   <https://github.com/pavelXbushmakin/histeng/docs/tasks/05t-team-parthers.docx>
+
 
 <a id="team-r"></a>
 
@@ -211,7 +238,9 @@
 
 # Медиа
 
-<docs/tasks/06-media.pdf>
+Материалы:
+
+-   <https://github.com/pavelXbushmakin/histeng/docs/tasks/06-media.pdf>
 
 
 <a id="media-r"></a>
