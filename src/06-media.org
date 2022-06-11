@@ -1,0 +1,12 @@
+* Медиа
+:PROPERTIES:
+:ID:       4993ABA4-9AAF-4350-AFA2-31697C8DD303
+:CUSTOM_ID: media
+:END:
+[[../docs/tasks/06-media.pdf]]
+
+** Решение
+:PROPERTIES:
+:ID:       6A6A5540-0DC8-4074-AF77-8FB9080C50A8
+:CUSTOM_ID: media-r
+:END:

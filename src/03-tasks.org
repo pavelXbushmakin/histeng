@@ -1,0 +1,13 @@
+* TODO Задачи и результаты
+:PROPERTIES:
+:ID:       14E43714-7760-4FC9-A6FB-314694F43DF3
+:CUSTOM_ID: tasks
+:END:
+- Задачи проекта
+- Результаты проекта
+** Решение
+:PROPERTIES:
+:ID:       5967B084-9940-4006-9521-2503743DD563
+:CUSTOM_ID: tasks-r
+:END:
+  

@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       ACD94B39-9492-456C-AF85-E6642BFE4D13
+:END:
+#+TITLE: Приложение «HistEng». Познание исторических фактов России в процессе изучения английского языка
+#+AUTHOR: Павел Викторович Бушмакин
+#+OPTIONS: toc:6
+
+Мероприятие: Мастерская по упаковке проектов ВФК 2022
+
+Куратор: Вероника Потапова
+
+
+#+INCLUDE: "src/01-ta-geo-issue.org" :minlevel 1
+#+INCLUDE: "src/02-target.org" :minlevel 1
+#+INCLUDE: "src/03-tasks.org" :minlevel 1
+#+INCLUDE: "src/04-calendar.org" :minlevel 1
+#+INCLUDE: "src/05-team.org" :minlevel 1
+#+INCLUDE: "src/06-media.org" :minlevel 1

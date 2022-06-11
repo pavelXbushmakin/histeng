@@ -1,0 +1,21 @@
+# -*- mode: gitignore; -*-
+
+### emacs ###
+*~
+\#*\#
+.\#*
+
+# org-mode
+.org-id-locations
+*_archive
+
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+/.~lock.readme.odt#
+
+/docs
