@@ -146,7 +146,7 @@
 
 <a id="tasks"></a>
 
-# TODO Задачи и результаты
+# Задачи и результаты
 
 Материалы:
 
@@ -164,12 +164,12 @@
 
 Задачи:
 
-1.  Создание протопипа приложения с базовым функционалом
+1.  Создание протопипа приложения
 2.  Поиск персонала
 3.  Регистрация ООО и закупка оборудования
-4.  Наполнение базовым контентом (задания, графические ачивки)
-5.  Доработка приложения и публикация его в сторах
-6.  Запуск сетевой инфраструктуры, обеспечивающей его работу
+4.  Наполнение базовым контентом
+5.  Доработка и публикация приложения
+6.  Запуск сетевой инфраструктуры
 7.  Продвижение приложения в интернет
 
 Результаты:
@@ -188,6 +188,11 @@
 
 -   <https://github.com/pavelXbushmakin/histeng/raw/master/docs/tasks/04-calendar.pdf>
 
+Сделать:
+
+-   Результаты
+-   Сроки
+
 
 <a id="calendar-r"></a>
 
@@ -197,7 +202,7 @@
 
 
 <colgroup>
-<col  class="org-left" />
+<col  class="org-right" />
 
 <col  class="org-left" />
 
@@ -207,30 +212,250 @@
 
 <col  class="org-left" />
 
-<col  class="org-left" />
+<col  class="org-right" />
 
-<col  class="org-left" />
+<col  class="org-right" />
 </colgroup>
 <tbody>
 <tr>
-<td class="org-left">№ п/п</td>
+<td class="org-right">№ п/п</td>
 <td class="org-left">Задача</td>
 <td class="org-left">Мероприятие (его содержание и место проведения)</td>
-<td class="org-left">Дата начала мероприятия (мм.гг)</td>
-<td class="org-left">Дата окончания мероприятия (мм.гг)</td>
 <td class="org-left">Ответственный</td>
 <td class="org-left">Ожидаемый результат (количественный)</td>
+<td class="org-right">Дата начала мероприятия (мм.гг)</td>
+<td class="org-right">Дата окончания мероприятия (мм.гг)</td>
 </tr>
 
 
 <tr>
+<td class="org-right">1</td>
+<td class="org-left">Создание прототипа приложения</td>
+<td class="org-left">Написание кода самого приложения</td>
+<td class="org-left">Руководитель</td>
+<td class="org-left">Приложение</td>
+<td class="org-right">11.2022</td>
+<td class="org-right">01.2023</td>
+</tr>
+
+
+<tr>
+<td class="org-right">2</td>
 <td class="org-left">&#xa0;</td>
+<td class="org-left">Написание серверного кода</td>
+<td class="org-left">Руководитель</td>
+<td class="org-left">Сервис</td>
+<td class="org-right">11.2022</td>
+<td class="org-right">01.2023</td>
+</tr>
+
+
+<tr>
+<td class="org-right">3</td>
+<td class="org-left">Поиск персонала</td>
+<td class="org-left">Размещение объявлений на hr-сайтах</td>
+<td class="org-left">Руководитель</td>
+<td class="org-left">Размещено не менее 20 объявлений о поиске персонала</td>
+<td class="org-right">11.2022</td>
+<td class="org-right">01.2023</td>
+</tr>
+
+
+<tr>
+<td class="org-right">4</td>
 <td class="org-left">&#xa0;</td>
+<td class="org-left">Проведение собеседований и заключение предварительных договоров, при необходимости направление на дообучение</td>
+<td class="org-left">Руководитель</td>
+<td class="org-left">Проведено не менее 60 собеседований</td>
+<td class="org-right">11.2022</td>
+<td class="org-right">01.2023</td>
+</tr>
+
+
+<tr>
+<td class="org-right">5</td>
+<td class="org-left">Регистрация ООО и закупка оборудования</td>
+<td class="org-left">Регистрация ООО в налоговой</td>
+<td class="org-left">Руководитель</td>
 <td class="org-left">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+</tr>
+
+
+<tr>
+<td class="org-right">6</td>
 <td class="org-left">&#xa0;</td>
+<td class="org-left">Снятие офиса</td>
+<td class="org-left">Руководитель</td>
 <td class="org-left">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+</tr>
+
+
+<tr>
+<td class="org-right">7</td>
 <td class="org-left">&#xa0;</td>
+<td class="org-left">Закупка оборудования</td>
+<td class="org-left">Руководитель</td>
 <td class="org-left">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+</tr>
+
+
+<tr>
+<td class="org-right">8</td>
+<td class="org-left">Поиск персонала</td>
+<td class="org-left">Заключение трудовых договоров</td>
+<td class="org-left">Руководитель</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+</tr>
+
+
+<tr>
+<td class="org-right">9</td>
+<td class="org-left">Наполнение базовым контентом</td>
+<td class="org-left">Написание текстов заданий и ответов для проверки</td>
+<td class="org-left">Копирайтер</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+</tr>
+
+
+<tr>
+<td class="org-right">10</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Дополнение заданий иллюстрациями (рисунками, картинками) для заданий</td>
+<td class="org-left">Копирайтер</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+</tr>
+
+
+<tr>
+<td class="org-right">11</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Создание значков достижений</td>
+<td class="org-left">Дизайнер</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+</tr>
+
+
+<tr>
+<td class="org-right">12</td>
+<td class="org-left">Доработка и публикация приложения</td>
+<td class="org-left">Разработка дизайна приложения</td>
+<td class="org-left">Дизайнер</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+</tr>
+
+
+<tr>
+<td class="org-right">13</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Верстка дизайна приложения</td>
+<td class="org-left">Фронтендер</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+</tr>
+
+
+<tr>
+<td class="org-right">14</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Доработка функционала приложения</td>
+<td class="org-left">Фронтендер</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+</tr>
+
+
+<tr>
+<td class="org-right">15</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Доработка сервисов для приложения</td>
+<td class="org-left">Бэкендер</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+</tr>
+
+
+<tr>
+<td class="org-right">16</td>
+<td class="org-left">Запуск сетевой инфраструктуры</td>
+<td class="org-left">Аренда серверов</td>
+<td class="org-left">Руководитель</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+</tr>
+
+
+<tr>
+<td class="org-right">17</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Разворачивание базы данных и кода сервисов</td>
+<td class="org-left">Бэкендер</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+</tr>
+
+
+<tr>
+<td class="org-right">18</td>
+<td class="org-left">Доработка и публикация приложения</td>
+<td class="org-left">Публикация приложения в сторах</td>
+<td class="org-left">Фронтендер</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+</tr>
+
+
+<tr>
+<td class="org-right">19</td>
+<td class="org-left">Продвижение приложения</td>
+<td class="org-left">Написание статей на habr, vc</td>
+<td class="org-left">Копирайтер</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+</tr>
+
+
+<tr>
+<td class="org-right">20</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Направление в школы рекомендаций и получение обратной связи</td>
+<td class="org-left">Копирайтер</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+</tr>
+
+
+<tr>
+<td class="org-right">21</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Размещение контекстной рекламы</td>
+<td class="org-left">Копирайтер и дизайнер</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
 </tr>
 </tbody>
 </table>
